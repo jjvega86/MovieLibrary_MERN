@@ -1,0 +1,22 @@
+{
+  "name": "movielibrarymern",
+  "version": "1.0.0",
+  "description": "REST API w/ Node.js and Express.js with a jQuery/HTML front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjvega86/MovieLibrary_MERN.git"
+  },
+  "author": "JJ Vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjvega86/MovieLibrary_MERN/issues"
+  },
+  "homepage": "https://github.com/jjvega86/MovieLibrary_MERN#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
